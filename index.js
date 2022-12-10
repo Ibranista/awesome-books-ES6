@@ -135,3 +135,8 @@ document.getElementById('contact').addEventListener('click', () => {
   allListBook.style.display = 'none';
 });
 
+addBook.style.display = 'none';
+contact.style.display = 'none';
+
+const dateTime = document.getElementById('time');
+dateTime.innerText = date;
