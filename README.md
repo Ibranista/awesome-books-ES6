@@ -82,9 +82,6 @@ After you're finished please remove all the comments and instructions!
   <ul>
     <li><a href="https://js.com/">vanilla js</a></li>
   </ul>
-</details>
-
-<details>
 
 <!-- Features -->
 
@@ -153,8 +150,8 @@ install the dependancies using node package manager also known as npm.
 👤 **Ibrahim**
 
 - GitHub: [@githubhandle](https://github.com/ibranista)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@twitterhandle](https://twitter.com/ibrahimkedir9)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ibraheem88)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -165,9 +162,9 @@ install the dependancies using node package manager also known as npm.
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ user authorization and authentication ] **[new_feature_1]**
+- [ add option to read books online ] **[new_feature_2]**
+- [ fetch more books online ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,7 +208,7 @@ I would like to thank Anna for helping me do this project.
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="license">https://opensource.org/licenses/MIT</a>
 
 This project is [MIT](./LICENSE) licensed.
 
