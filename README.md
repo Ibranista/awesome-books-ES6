@@ -208,7 +208,7 @@ I would like to thank Anna for helping me do this project.
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license">https://opensource.org/licenses/MIT</a>
+## 📝 License <a name="license" href="https://opensource.org/licenses/MIT"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
